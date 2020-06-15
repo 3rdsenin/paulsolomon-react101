@@ -1,0 +1,68 @@
+{
+  "movies": [
+    {
+      "data": {
+        "movietitle": "as",
+        "moviegenre": "as",
+        "seatnum": "2"
+      },
+      "id": 1
+    },
+    {
+      "data": {
+        "movietitle": "as",
+        "moviegenre": "as",
+        "seatnum": "2"
+      },
+      "id": 2
+    },
+    {
+      "data": {
+        "movietitle": "a",
+        "moviegenre": "asd",
+        "seatnum": "6"
+      },
+      "id": 3
+    },
+    {
+      "data": {
+        "movietitle": "Odoyewu",
+        "moviegenre": "Fireboy",
+        "seatnum": "45"
+      },
+      "id": 4
+    },
+    {
+      "data": {
+        "movietitle": "Bello",
+        "moviegenre": "Fight",
+        "seatnum": "100"
+      },
+      "id": 5
+    },
+    {
+      "data": {
+        "movietitle": "Bello",
+        "moviegenre": "Fight",
+        "seatnum": "111"
+      },
+      "id": 6
+    },
+    {
+      "data": {
+        "movietitle": "Bello",
+        "moviegenre": "Fight",
+        "seatnum": "111"
+      },
+      "id": 7
+    },
+    {
+      "data": {
+        "movietitle": "asd",
+        "moviegenre": "warm",
+        "seatnum": "2"
+      },
+      "id": 8
+    }
+  ]
+}
